@@ -1,0 +1,34 @@
+_repo: England-My-England_8914
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lawrence, D. H. (David Herbert)
+    aliases:
+    - Lawrence, D.H.
+    - Davison, Lawrence H. (Lawrence Herbert)
+    - Lawrence, David Herbert
+    birthdate: 1885
+    deathdate: 1930
+    gutenberg_agent_id: '123'
+    url: http://www.gutenberg.org/2009/agents/123
+    wikipedia: http://en.wikipedia.org/wiki/D._H._Lawrence
+description: ''
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2005-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8914'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Social life and customs -- 20th century -- Fiction'
+- !lcsh 'Short stories, English'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: England, my England -- Tickets, please -- The blind man -- Monkey
+  nuts -- Wintry peacock -- You touched me -- Samson and Delilah -- The primrose path
+  -- The horse dealer's daughter -- Fanny and Annie.
+title: England, My England
+url: http://www.gutenberg.org/ebooks/8914
